@@ -1,7 +1,7 @@
 # Syllogimous v4
 
 Syllogimous v4 is now available! Try it now at: [Syllogimous v4](https://4skinskywalker.github.io/Syllogimous-v4/)
-
+e
 ## TODO
 - Allow customization of the start of the week.
 - Introduce a setting to adjust the density of directions.
